@@ -20,7 +20,7 @@
 -- navbar.header:
 logo: $assets.files.images.logo.svg
 logoURL: /portfolio
-header-item1: Home
+header-item1: Ghar
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
